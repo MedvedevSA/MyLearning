@@ -1,6 +1,5 @@
 <html>
-	<h1>
-	HelloWorld
-	Ну и что теперь?
-	</h1>
+	<body>
+	<h1> HelloWorld </h1>
+	</body>
 </html>
